@@ -6,3 +6,4 @@ git branch -M develop
 git remote add origin https://github.com/haivutuan93/fa-devops.git
 git push -u origin develop
 git push -u origin develop
+git push -u origin develop
